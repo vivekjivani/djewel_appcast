@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appcast>
-  <item>
-    <title>1.2.0</title>
-    <pubDate>2025-08-01T12:00:00Z</pubDate>
-    <minimumOsVersion>12.0</minimumOsVersion>
-    <releaseNotes>Bug fixes, performance improvements, and new features.</releaseNotes>
-    <downloadLink>https://yourdomain.com/your-app.ipa</downloadLink>
-  </item>
+  <items>
+    <item>
+      <version>1.2.0</version>
+      <os>ios</os>
+      <minimum_os_version>12.0</minimum_os_version>
+      <release_notes>Bug fixes, performance improvements, and new features.</release_notes>
+      <url>https://yourdomain.com/your-app.ipa</url>
+      <pub_date>2025-08-01T12:00:00Z</pub_date>
+    </item>
+  </items>
 </appcast>
