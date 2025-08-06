@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appcast>
+  <item>
+    <title>1.2.0</title>
+    <pubDate>2025-08-01T12:00:00Z</pubDate>
+    <minimumOsVersion>12.0</minimumOsVersion>
+    <releaseNotes>Bug fixes, performance improvements, and new features.</releaseNotes>
+    <downloadLink>https://yourdomain.com/your-app.ipa</downloadLink>
+  </item>
+</appcast>
